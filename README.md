@@ -1,5 +1,9 @@
+Name : B Harshala Reddy
+
+Register Number : 212224040050
+
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE: 10-04-2025
+## DATE: 23-02-2026
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -41,7 +45,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
-![3 1](https://github.com/user-attachments/assets/f1fe4628-50e9-41f1-a592-91a3b1950c74)
+<img width="1189" height="831" alt="image" src="https://github.com/user-attachments/assets/2b59482e-cb6a-4319-95d1-acb7c4d7ce46" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
